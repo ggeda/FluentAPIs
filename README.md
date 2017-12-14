@@ -5,7 +5,9 @@ These hack single file fluent APIs / Interfaces examples follow Martin Fowler's
 https://www.martinfowler.com/bliki/FluentInterface.html
 
 Compile:
+
 javac ConversionSolutionOne.java
+
 javac ConversionSolutionTwo.java
 
 run:
