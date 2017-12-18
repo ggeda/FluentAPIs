@@ -1,6 +1,6 @@
 # FluentAPIs
 
-These hack single file fluent APIs / Interfaces follow Martin Fowler's 
+This hack, single file fluent APIs / Interfaces, follows Martin Fowler's 
 "Fluent Interface" discussion in his blog here 
 https://www.martinfowler.com/bliki/FluentInterface.html
 
